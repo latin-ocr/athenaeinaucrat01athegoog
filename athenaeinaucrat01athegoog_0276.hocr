@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./athenaeinaucrat01athegoog_0276.png"; bbox 0 0 2580 5076; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 159 1664 1024 2039">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 159 1664 1024 2039">
+     <span class='ocr_line' id='line_1_1' title="bbox 199 1664 914 1775; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 199 1664 914 1775; x_wconf 75' lang='lat' dir='ltr'>INDEXRERUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 159 1868 1024 2039; baseline 0 -22"><span class='ocrx_word' id='word_1_2' title='bbox 159 1868 1024 2039; x_wconf 57' lang='lat' dir='ltr'>TPERsoNARUM,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 463 2152 726 2239">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 463 2152 726 2239">
+     <span class='ocr_line' id='line_1_3' title="bbox 463 2152 726 2239; baseline -0.004 -20"><span class='ocrx_word' id='word_1_3' title='bbox 463 2154 648 2239; x_wconf 67' lang='lat' dir='ltr'>Qum.</span> <span class='ocrx_word' id='word_1_4' title='bbox 720 2152 726 2163; x_wconf 89' lang='lat'><strong>·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 134 2356 1013 2451">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 134 2356 1013 2451">
+     <span class='ocr_line' id='line_1_4' title="bbox 134 2356 1013 2451; baseline -0.007 0"><span class='ocrx_word' id='word_1_5' title='bbox 134 2359 487 2451; x_wconf 82' lang='lat' dir='ltr'><strong>NATHENAEI</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 518 2356 1013 2449; x_wconf 86' lang='lat' dir='ltr'><strong>DEIPNOSOPHISTIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 159 2556 849 2677">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 159 2556 849 2677">
+     <span class='ocr_line' id='line_1_5' title="bbox 159 2556 849 2677; baseline -0.001 -2"><span class='ocrx_word' id='word_1_7' title='bbox 159 2570 167 2578; x_wconf 82' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 267 2556 849 2677; x_wconf 56' lang='grc' dir='ltr'>ΜΕΜοἙΑΝτυΙι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1294 5076">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1294 5076">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1294 5076; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1294 5076; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
